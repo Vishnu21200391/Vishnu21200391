@@ -3,17 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My github</title>
+    
 </head>
 <body>
     <h1 align="center">Hi 👋, I'm Bala Krishna Vishnu sai</h1>
 <h3 align="center">"Passionate about using Python for AI and Machine Learning to build innovative solutions."</h3>
 
-<p align="left"> <img src="https://img.freepik.com/premium-vector/cute-boy-study-with-laptop-cartoon-icon-illustration-education-technology-icon-concept-isolated-flat-cartoon-style_1240525-899.jpg" alt="vishnu21200391" /> 
+<p > <img align=right width="300px" height="300px" src="https://img.freepik.com/premium-vector/cute-boy-study-with-laptop-cartoon-icon-illustration-education-technology-icon-concept-isolated-flat-cartoon-style_1240525-899.jpg" alt="vishnu21200391" /> 
 
 -  I’m currently learning **ML,AI** <br>
 
-- All of my projects are available at [Visit my portfilo](Visit my portfilo) <br>
+- All of my projects are available at **Visit my portfilo**<br>
 
 -  How to reach me **balakrishnavishnusaiyadav@gmail.com** <br>
 
