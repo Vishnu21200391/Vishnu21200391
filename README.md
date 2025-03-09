@@ -7,17 +7,17 @@
 </head>
 <body>
     <h1 align="center">Hi 👋, I'm Bala Krishna Vishnu sai</h1>
-<h3 align="center">"Passionate about using Python for AI and Machine Learning to build innovative solutions."</h3> <hr>
+<h3 align="center">"Passionate about using Python for AI and Machine Learning to build innovative solutions."</h3> 
 
-<p > <img align=right width="300px" height="300px" src="https://img.freepik.com/premium-vector/cute-boy-study-with-laptop-cartoon-icon-illustration-education-technology-icon-concept-isolated-flat-cartoon-style_1240525-899.jpg" alt="vishnu21200391" /> 
+<p > <img align=right width="300px" height="300px" src="https://img.freepik.com/premium-vector/cute-boy-study-with-laptop-cartoon-icon-illustration-education-technology-icon-concept-isolated-flat-cartoon-style_1240525-899.jpg" alt="vishnu21200391" /> <hr>
 
--  I’m currently learning **ML,AI** <br>
+-  I’m currently learning -ML,AI <br>
 
 - All of my projects are available at <a href="url">Visit my portfilo</a><br>
 
 -  How to reach me **balakrishnavishnusaiyadav@gmail.com** <br>
 
--  Know about my experiences:  <a href="url">View my resume/a></p><hr>
+-  Know about my experiences  <a href="url">View my resume</a></p><hr>
 
 <h3 align="left">My Online Profiles:</h3>
 <p align="left">
