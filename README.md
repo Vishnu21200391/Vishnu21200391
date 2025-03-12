@@ -39,7 +39,7 @@
 <hr>
 
 <p> <h3>🚀 Reach Out to Me</h3>
-Feel free to reach out to me for collaboration, discussions, or project ideas! I’m always open to learning and contributing. Let’s connect and create something amazing! 🌟</p>
+Feel free to reach out to me for collaboration, discussions, or project ideas! I’m always open to learning and contributing. Let’s connect and create something amazing! </p>
 
 </body>
 </html>
