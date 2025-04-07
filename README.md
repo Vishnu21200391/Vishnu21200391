@@ -13,7 +13,7 @@
 
 -  I’m currently learning -ML,AI <br>
 
-- All of my projects are available at <a href="url">Visit my portfilo</a><br>
+- All of my projects are available at <a href="url  file:///C:/Users/balak/Downloads/Portfolio-main/Portfolio-main/index.html">Visit my portfilo</a><br>
 
 -  How to reach me **balakrishnavishnusaiyadav@gmail.com** <br>
 
