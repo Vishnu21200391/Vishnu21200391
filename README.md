@@ -17,7 +17,7 @@
 
 -  How to reach me **balakrishnavishnusaiyadav@gmail.com** <br>
 
--  Know about my experiences  <a href="url">View my resume</a></p><hr>
+-  Know about my experiences  <a href="">View my resume</a></p><hr>
 
 <h3 align="left">My Online Profiles:</h3>
 <p align="left">
