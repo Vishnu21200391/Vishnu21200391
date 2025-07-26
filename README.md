@@ -21,7 +21,7 @@
 
 <h3 align="left">My Online Profiles:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/-vishnu-sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/-vishnu-sai" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/-vishnu-sai](https://www.linkedin.com/in/-vishnu-sai)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/-vishnu-sai" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/balakrishnavish1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="balakrishnavish1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vishnu20083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishnu20083" height="30" width="40" /></a>
 </p><hr>
