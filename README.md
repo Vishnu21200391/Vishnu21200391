@@ -47,13 +47,7 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
-<hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnu21200391&show_icons=true&locale=en&layout=compact" alt="vishnu21200391" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnu21200391&show_icons=true&locale=en" alt="vishnu21200391" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu21200391&" alt="vishnu21200391" /></p>
 
 
 <hr>
